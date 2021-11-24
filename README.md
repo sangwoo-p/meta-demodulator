@@ -1,6 +1,10 @@
+## Latest version available at https://github.com/kclip/meta-demodulator
+
+This code belongs to the first [draft](https://arxiv.org/abs/1908.09049v1) for the project which had been revised and now published as -- S. Park, H. Jang, O. Simeone, and J. Kang, "[Learning to Demodulate from Few Pilots via Offline and Online Meta-Learning,](https://arxiv.org/abs/1908.09049)" *IEEE Trans. Signal Processing*, vol. 69, pp. 226–239, 2020. The latest, revised code can be found at https://github.com/kclip/meta-demodulator.
+
 ## Meta-Demodulator
 
-This repository contains code for "[Learning to Demodulate from Few Pilots via Offline and Online Meta-Learning](https://arxiv.org/abs/1908.09049)" - 
+This repository contains code for "[Learning to Demodulate from Few Pilots via Offline and Online Meta-Learning](https://arxiv.org/abs/1908.09049v1)" - 
 Sangwoo Park, Hyeryung Jang, Osvaldo Simeone, and Joonhyuk Kang.
 
 ### Dependencies
